@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ElderlyOnlyAmericanredsquirrel-size_restricted.gif)]
+![MasterHead](https://thumbs.gfycat.com/ElderlyOnlyAmericanredsquirrel-size_restricted.gif)
 <h1 align="center">Привет 👋, меня зовут Ольга</h1>
 <h3 align="center">Я начинающий data scientist</h3>
 
