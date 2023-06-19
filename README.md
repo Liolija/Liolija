@@ -18,29 +18,29 @@
 <tr>
 <th align="left">Название</th>
 <th>Описание</th>
-<th align="right">Инструмент</th>
+<th align="right">Используемые библиотеки и инструменты</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="left"><a href="https://github.com/Liolija/my_projects/blob/main/auto_price.ipynb">Определение стоимости автомобиля</a></td>
-<td>Задача: быстро узнать рыночную стоимость  автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Была разработана модель, которая предсказывает цену автомобиля с ошибкой 1487.</td>
-<td align="right">Python</td>
+<td>Задача проекта: Разработать модель, которая позволит быстро узнать рыночную стоимость автомобиля.</td>
+<td align="right">pandas, seaborn, matplotlib, phik, sklearn, lightgbm, catboost, optuna</td>
 </tr>
 <tr>
 <td align="left"><a href="https://github.com/Liolija/my_projects/blob/main/game.ipynb" rel="nofollow">Рынок игр</a></td>
-<td>Задача: выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. Перед вами данные до 2016 года. </td>
-<td align="right">Python</td>
+<td>Задача проекта: провести анализ и определить факторы, определяющие успешность игры. </td>
+<td align="right">pandas, seaborn, matplotlib, scipy</td>
 </tr>
 <tr>
 <td align="left"><a href="https://github.com/Liolija/my_projects/blob/main/telecom.ipynb" rel="nofollow">Телеком</a></td>
-<td>Задача: прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.</td>
-<td align="right">Python</td>
+<td>Задача проекта: разработать модель, по прогнозированию оттока клиентов.</td>
+<td align="right">pandas, missingno, seaborn, matplotlib, phik, sklearn, lightgbm, catboost, optuna</td>
 </tr>
 <tr>
 <td align="left"><a href="https://github.com/Liolija/my_projects/blob/main/realty.ipynb" rel="nofollow">Исследование объявлений о продаже квартир</a></td>
-<td>Задача: научиться определять рыночную стоимость объектов недвижимости. </td>
-<td align="right">Python</td>
+<td>Задача проекта: проанализировать характеристики объектов недвижимости, оказывающих влияние на их рыночную стоимость. </td>
+<td align="right">pandas, seaborn, matplotlib</td>
 </tr>
 </tbody>
 </table>
