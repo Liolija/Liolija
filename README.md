@@ -44,3 +44,18 @@
 </tr>
 </tbody>
 </table>
+
+<h3>Дипломы и сертификаты</h3>
+<table>
+<thead>
+<tr>
+<th align="left">№</th>
+<th>Диплом/Сертификат</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</a></td>
+<td align="left"><a href="https://disk.yandex.ru/i/w5AU16IUZ6EK6Q">Яндекс.Практикум</a></td>
+
+</tr>
